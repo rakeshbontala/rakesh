@@ -1,4 +1,4 @@
-#print the input
+#Read the one input line
 
-a = input()
-print(a)
+a = input();
+print(a);

@@ -1,4 +1,6 @@
 a = int(input())
 b = int(input())
 
-print(a/b)
+result = a/b 
+
+print(int(result))

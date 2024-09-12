@@ -1,5 +1,5 @@
-a = int(input())
-b = int(input())
+a = int(input()) #5
+b = int(input()) #3
 
 if a>b and b<a:
     print('A <= B is False')

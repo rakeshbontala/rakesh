@@ -9,3 +9,4 @@ for i in range(l):
         c=c+1
 
 print(c*"*"+a[c:])
+#

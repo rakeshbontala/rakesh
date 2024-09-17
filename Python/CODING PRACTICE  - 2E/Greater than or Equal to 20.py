@@ -1,7 +1,13 @@
+
+
+
 a=int(input())
+
 b=int(input())
 
-if (a>5 or b>5) and (a*b>0):
+c=int(input())
+
+if a>=20 and b>=20 and c>=20:
     print(True)
 else:
     print(False)

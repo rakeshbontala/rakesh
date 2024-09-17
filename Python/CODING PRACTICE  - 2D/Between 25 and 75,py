@@ -1,0 +1,6 @@
+a=int(input())
+
+if a>25 and a<75:
+    print(True)
+else:
+    print(False)

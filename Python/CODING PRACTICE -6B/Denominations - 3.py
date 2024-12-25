@@ -1,0 +1,10 @@
+a=int(input())
+note_500=int(a/500)
+a=(a%500)
+note_50=int(a/50)
+a=(a%50)
+note_10=int(a/10)
+a=(a%10)
+note_1=int(a/1)
+
+print ("500: "+str(note_500)+" "+"50: "+str(note_50)+" "+"10: "+ str(note_10)+" "+"1: "+str(note_1))
